@@ -28,7 +28,7 @@
       <java.level>11</java.level>
       <enforcer.skip>true</enforcer.skip>
       <cxf-xjc-plugin.version>4.0.0</cxf-xjc-plugin.version>
-      <jackson-databind.version>2.15.3</jackson-databind.version>
+      <jackson-databind.version>2.16.0</jackson-databind.version>
       <jackson-dataformat-xml.version>2.15.3</jackson-dataformat-xml.version>
       <jackson-module-jaxb-annotations.version>2.15.3</jackson-module-jaxb-annotations.version>
       <commons-lang3.version>3.14.0</commons-lang3.version>
