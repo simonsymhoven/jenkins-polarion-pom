@@ -24,7 +24,7 @@
       <changelist>-RELEASE</changelist>
       <jenkins.baseline>2.414</jenkins.baseline>
       <jenkins.version>${jenkins.baseline}.3</jenkins.version>
-      <bom.version>2598.v49e2b_e68d413</bom.version>
+      <bom.version>2718.v7e8a_d43b_3f0b_</bom.version>
       <java.level>11</java.level>
       <enforcer.skip>true</enforcer.skip>
       <cxf-xjc-plugin.version>4.0.0</cxf-xjc-plugin.version>
